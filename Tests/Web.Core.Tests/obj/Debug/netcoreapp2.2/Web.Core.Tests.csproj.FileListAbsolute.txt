@@ -1,0 +1,17 @@
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/obj/Debug/netcoreapp2.2/Web.Core.Tests.csprojAssemblyReference.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/obj/Debug/netcoreapp2.2/Web.Core.Tests.csproj.CoreCompileInputs.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/obj/Debug/netcoreapp2.2/Web.Core.Tests.AssemblyInfoInputs.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/obj/Debug/netcoreapp2.2/Web.Core.Tests.AssemblyInfo.cs
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/bin/Debug/netcoreapp2.2/Web.Core.Tests.deps.json
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/bin/Debug/netcoreapp2.2/Web.Core.Tests.runtimeconfig.json
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/bin/Debug/netcoreapp2.2/Web.Core.Tests.runtimeconfig.dev.json
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/bin/Debug/netcoreapp2.2/Web.Core.Tests.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/bin/Debug/netcoreapp2.2/Web.Core.Tests.pdb
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/bin/Debug/netcoreapp2.2/web.core.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/bin/Debug/netcoreapp2.2/web.core.pdb
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/obj/Debug/netcoreapp2.2/Web.Core.Tests.csproj.CopyComplete
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/obj/Debug/netcoreapp2.2/Web.Core.Tests.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Tests/Web.Core.Tests/obj/Debug/netcoreapp2.2/Web.Core.Tests.pdb

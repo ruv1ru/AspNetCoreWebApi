@@ -1,0 +1,17 @@
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/obj/Debug/netcoreapp2.2/Web.Api.csprojAssemblyReference.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/obj/Debug/netcoreapp2.2/Web.Api.csproj.CoreCompileInputs.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/obj/Debug/netcoreapp2.2/Web.Api.RazorAssemblyInfo.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/obj/Debug/netcoreapp2.2/Web.Api.RazorAssemblyInfo.cs
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/obj/Debug/netcoreapp2.2/Web.Api.AssemblyInfoInputs.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/obj/Debug/netcoreapp2.2/Web.Api.AssemblyInfo.cs
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/bin/Debug/netcoreapp2.2/Web.Api.deps.json
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/bin/Debug/netcoreapp2.2/Web.Api.runtimeconfig.json
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/bin/Debug/netcoreapp2.2/Web.Api.runtimeconfig.dev.json
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/bin/Debug/netcoreapp2.2/Web.Api.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/bin/Debug/netcoreapp2.2/Web.Api.pdb
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/bin/Debug/netcoreapp2.2/web.core.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/bin/Debug/netcoreapp2.2/web.core.pdb
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/obj/Debug/netcoreapp2.2/Web.Api.RazorTargetAssemblyInfo.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/obj/Debug/netcoreapp2.2/Web.Api.csproj.CopyComplete
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/obj/Debug/netcoreapp2.2/Web.Api.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Api/obj/Debug/netcoreapp2.2/Web.Api.pdb

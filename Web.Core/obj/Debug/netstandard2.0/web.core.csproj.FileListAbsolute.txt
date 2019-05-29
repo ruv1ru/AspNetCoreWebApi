@@ -1,0 +1,9 @@
+/Users/ruviru/Projects/AspNetCoreWebApi/web.core/bin/Debug/netstandard2.0/web.core.deps.json
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Core/bin/Debug/netstandard2.0/web.core.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Core/bin/Debug/netstandard2.0/web.core.pdb
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Core/obj/Debug/netstandard2.0/web.core.csprojAssemblyReference.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Core/obj/Debug/netstandard2.0/web.core.csproj.CoreCompileInputs.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Core/obj/Debug/netstandard2.0/web.core.AssemblyInfoInputs.cache
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Core/obj/Debug/netstandard2.0/web.core.AssemblyInfo.cs
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Core/obj/Debug/netstandard2.0/web.core.dll
+/Users/ruviru/Projects/AspNetCoreWebApi/Web.Core/obj/Debug/netstandard2.0/web.core.pdb
